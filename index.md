@@ -87,3 +87,7 @@ I read this interesting quote the other day:
   * An opera singer
   * Has white hair 
   * Is possibly mentally unwell
+
+  ### Markdowntutorial irtisanoi itsensä
+  ![](kuva.png)
+  ![](kuva2.png)
